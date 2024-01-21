@@ -10,8 +10,9 @@ Ce projet a été réalisé dans le cadre du cours de Data Analysis Project en M
 - `Saves/`: Contient les figures et modèles obtenus et sauvegardés pendant le projet.
 - `src/`: Contient le code source du projet, fourni dans le cadre du Data Ocean Challenge.
 
-- `PDF_VAUCLARE_Simon.pdf`: Notebook réduit pour le rendu final
-- `VAUCLARE_Simon.ipynb`: Notebook complet et fonctionnel
+- `PDF_VAUCLARE_Simon.pdf`:   Notebook réduit pour le rendu final en format PDF
+- `PDF_VAUCLARE_Simon.ipynb`: Notebook réduit pour le rendu final en format ipynb
+- `VAUCLARE_Simon.ipynb`:     Notebook complet et fonctionnel
 
 - `environment.yml`
 - `requirements.txt` 
