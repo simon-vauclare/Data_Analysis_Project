@@ -13,6 +13,6 @@ Ce projet a été réalisé dans le cadre du cours de Data Analysis Project en M
 - `PDF_VAUCLARE_Simon.pdf`: Notebook réduit pour le rendu final
 - `VAUCLARE_Simon.ipynb`: Notebook complet et fonctionnel
 
-- `environment.yml'
+- `environment.yml`
 - `requirements.txt` 
 - `README.md`
